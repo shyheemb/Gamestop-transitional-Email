@@ -1,0 +1,66 @@
+<h3
+  style="
+    padding: 48px 40px 10px;
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-family: 'Avenir', Arial, sans-serif;
+    letter-spacing: 6.5px;
+    line-height: 34px;
+  "
+>
+ <h3 style="margin:0;padding:8px 0px;color:#282828;font-family:'Roboto',Arial,Helvetica,
+ sans-serif;font-size:24px;line-height:28px;font-weight:900;text-align:center;text-transform:uppercase">
+  <td>
+  <table
+  class="header-table"
+  width="100%"
+  cellspacing="0"
+  cellpadding="0"
+  border="0"
+  style="padding: 0;
+  border-bottom: 1px solid #dad3d2;
+"
+
+<p style="margin:0;padding-top:0px;color:#282828;font-family:
+'Roboto',Arial,sans-serif;font-size:16px;font-weight:700;text-align:left>
+
+td padding: 16px; 
+img style="
+padding: 0;
+width: 116px;
+text-align: center;"
+</table>
+      <a
+        href="#"
+        style="
+          background-color: #0072d2;
+          border-radius: 4px;
+          color: #f9f9f9;
+          font-family: 'Avenir', Arial, sans-serif;
+          display: inline-block;
+          font-size: 16px;
+          font-weight: bold;
+          line-height: 50px;
+          text-align: center;
+          text-transform: uppercase;
+          text-decoration: none;
+          width: 370px;
+          letter-spacing: 1.6px;
+        "
+        >Start Streaming</a
+      >
+      <p
+        style="
+          padding: 0 40px 24px;
+          font-size: 20px;
+          color: #ffffff;
+          font-family: 'Avenir', Arial, sans-serif;
+          line-height: 26px;
+          font-weight: normal;
+        "
+      ></p>
+    </table>
+  </td>
+</h3>
